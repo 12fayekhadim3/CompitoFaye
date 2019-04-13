@@ -1,0 +1,13 @@
+*   64cec9d (HEAD -> master) risolti conflitti
+|\  
+| * e091495 (home) Inserito colore sfondo rosso
+| * fa87c39 Inserita immagine per la pagina home
+| *   66c384f Fusione ramo contatti
+| |\  
+| | * f7334a8 (Contatti) Inserito file css per i widget
+| | * 08cd5f2 Creata la pagina contatti
+| * | 3ccf877 Creata pagina home
+| |/  
+* | 01dc69f Inserito colore sfondo blu
+|/  
+* 8151a76 Prima Commit
